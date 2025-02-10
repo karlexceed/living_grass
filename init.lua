@@ -8,11 +8,11 @@ living_grass = {}
 grow_interval = 20
 grow_chance = 500
 dry_interval = 40
-dry_chance = 800
+dry_chance = 1500
 regrow_interval = 40
 regrow_chance = 800
 death_interval = 60
-death_chance = 1000
+death_chance = 1800
 
 
 -- GROW
